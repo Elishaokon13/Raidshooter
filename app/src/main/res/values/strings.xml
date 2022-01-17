@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Example name</string>
+    <string name="app_name">Raid Shooter</string>
 <!--    <string name="web_hostname">kibana.lt.loc</string> Doesnt works-->
-    <string name="web_url">https://example.com/something</string>
+    <string name="web_url">https://trexcruz.github.io/Raid-shooter</string>
 </resources>
 
     <!-- To use file as web_url, set it to; "file:///android_asset/index.html"); -->
