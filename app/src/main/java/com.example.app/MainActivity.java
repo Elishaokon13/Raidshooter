@@ -1,4 +1,4 @@
-package com.example.app;
+package com.melvincypher.raidshooter;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
